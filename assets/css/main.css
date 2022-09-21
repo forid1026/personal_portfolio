@@ -570,7 +570,7 @@ hr {
   z-index: 3000;
 }
 .preloader .preloader-block .preloader-icon .loading-dot {
-  background-color: #fff;
+  background-color: #28a745;
   border-radius: 50%;
   display: inline-block;
   height: 13px;
