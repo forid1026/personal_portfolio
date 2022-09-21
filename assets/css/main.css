@@ -1518,6 +1518,7 @@ hr {
 #my-form-status {
   margin: 0;
   margin-top: 8px;
+  text-transform: capitalize;
 }
 #my-form-status.error {
   background-color: transparent;
